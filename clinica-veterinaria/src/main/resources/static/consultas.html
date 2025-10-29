@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro de Consultas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>📅 Cadastro de Consultas</h1>
+  <form id="formConsulta">
+    <input type="date" id="data" required />
+    <input type="text" id="descricao" placeholder="Descrição" required />
+    <input type="number" id="animalId" placeholder="ID do Animal" required />
+    <button type="submit">Cadastrar</button>
+  </form>
+
+  <h2>Lista de Consultas</h2>
+  <ul id="listaConsultas"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>
