@@ -1,0 +1,7 @@
+com\example\clinica\controller\AnimalController.class
+com\example\clinica\repository\AnimalRepository.class
+com\example\clinica\controller\ConsultaController.class
+com\example\clinica\model\Animal.class
+com\example\clinica\model\Consulta.class
+com\example\clinica\ClinicaVeterinariaApplication.class
+com\example\clinica\repository\ConsultaRepository.class
